@@ -14,7 +14,8 @@
     "dotenv": "^16.3.1",
     "ethers": "^6.6.0",
     "express": "^4.18.2",
+    "nft-mint-automation": "file:",
     "puppeteer-extra": "^3.3.4",
-    "puppeteer-extra-plugin-stealth": "^2.12.4"
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
