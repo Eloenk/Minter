@@ -5,7 +5,7 @@
   "main": "mint.js",
   "scripts": {
     "start": "node mint.js",
-    "sign-server": "node sign-server.js"
+    "sign_server": "node sign_server.js"
   },
   "author": "",
   "license": "MIT",
